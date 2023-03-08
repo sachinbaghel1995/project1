@@ -1,0 +1,22 @@
+form input{
+border-radius: 10px;
+width: 200px;
+}
+form{
+    background-color: rgb(202, 197, 192);
+    width: 800px;
+    border-radius: 30px;
+    
+}
+.data-styles{
+    background-color: rgb(183, 96, 207);
+    display: inline-flex;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15px;
+    width: 800px;
+    text-align: center;
+    text-indent: 100px;
+}
